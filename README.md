@@ -10,7 +10,7 @@ This is a Node.js application. The application provides an API to fetch random p
 
 **Clone the repository:**
 
-1. git clone https://github.com/yourusername/titan-fullstack-assignment.git
+1. git clone https://github.com/shellyEldman/titan-fullstack-assignment.git
 2. cd titan-fullstack-assignment
 3. npm install
 
@@ -26,7 +26,8 @@ This is a Node.js application. The application provides an API to fetch random p
    ```
 
 **Running the App**
-npm run dev
+
+1. npm run dev
 
 ## Usage
 
